@@ -15,6 +15,9 @@
 ### Where can you find me?
 - [raramuridesign.com](https://raramuridesign.com)
 - [linkedin](https://www.linkedin.com/in/matthewphilogene/)
+
+### Projects
+- [mysql-country-list on GitHub](https://kb.raramuridesign.com/mysql-country-and-nationality-list-imports/)
 - [Bad Bot Generator](https://badbot.my247apps.com/)
 
 <!--
@@ -28,6 +31,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
