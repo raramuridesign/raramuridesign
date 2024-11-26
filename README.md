@@ -1,5 +1,22 @@
 ## Hi there 👋
 
+🌱 I’m currently learning how to...
+
+- streamlining code to make projects load faster...
+- use AI effectively for everday assistance...
+- ensure emails are delivered without being flagged as spam...
+- build projects using static HTML & flatfile database for speed optimisations...
+
+### Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lhaig&raramuridesign=html)
+![lhaigs's github stats](https://github-readme-stats.vercel.app/api?username=raramuridesign&show_icons=true&count_private=true&line_height=40)
+
+### Where can you find me?
+- [raramuridesign.com](https://raramuridesign.com)
+- [linkedin](https://www.linkedin.com/in/matthewphilogene/)
+- [Bad Bot Generator](https://badbot.my247apps.com/)
+
 <!--
 **raramuridesign/raramuridesign** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
