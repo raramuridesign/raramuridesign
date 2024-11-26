@@ -17,8 +17,15 @@
 - [linkedin](https://www.linkedin.com/in/matthewphilogene/)
 
 ### Projects
-- [mysql-country-list on GitHub](https://kb.raramuridesign.com/mysql-country-and-nationality-list-imports/)
 - [Bad Bot Generator](https://badbot.my247apps.com/)
+- [mysql-country-list on GitHub](https://kb.raramuridesign.com/mysql-country-and-nationality-list-imports/)
+- [AWS SES Permissions Policy Generator](https://kb.raramuridesign.com/aws-ses-permissions-policy-generator/)
+- [AWS SES Calculator (use at your own risk)](https://kb.raramuridesign.com/aws-ses-calculator/)
+- [VAT Calculator Tool](https://kb.raramuridesign.com/vat-calculator/)
+- [South African Post Code SQL Import](https://kb.raramuridesign.com/south-african-post-code-sql-import/)
+- [Online UTM Tracking Code Builder](https://kb.raramuridesign.com/utm/)
+- [Google Maps: Find GPS coordinates](https://kb.raramuridesign.com/google-maps-find-gps-coordinates/)
+
 
 <!--
 **raramuridesign/raramuridesign** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
