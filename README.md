@@ -17,6 +17,7 @@
 - [linkedin](https://www.linkedin.com/in/matthewphilogene/)
 
 ### Projects
+- [Email Admin Expert - OpenAi GPT](https://matthew.philogene.co.za/gpt-email-admin-expert/)
 - [Bad Bot Generator](https://badbot.my247apps.com/)
 - [mysql-country-list on GitHub](https://kb.raramuridesign.com/mysql-country-and-nationality-list-imports/)
 - [AWS SES Permissions Policy Generator](https://kb.raramuridesign.com/aws-ses-permissions-policy-generator/)
